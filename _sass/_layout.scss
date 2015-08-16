@@ -96,6 +96,7 @@
     padding: $spacing-unit 0;
     background-color: #333333;
     color: white;
+    font-size: 20px!important;
 }
 
 .footer-heading {
@@ -110,7 +111,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 20px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
