@@ -7,7 +7,7 @@ dia: 15
 mes: Agosto
 ano: 2015
 permalink: /welcome-to-jekyll
-image: "/assets/images/posts/post1.svg"
+image: "/assets/images/posts/post1.jpg"
 leitura: 5 minutos
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
