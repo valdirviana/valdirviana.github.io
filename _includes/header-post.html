@@ -1,0 +1,28 @@
+<a href="/" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a> {{post.image}}
+<header>
+  <div class="teaserimage">
+    <div class="teaserimage-image" style="background-image: url({{ page.image }})">
+      Teaser Image
+    </div>
+  </div>
+
+  <header class="header-title">
+    <div class="header-title-wrap">
+      <h1 class="entry-title">
+         <p title="{{page.title}}">{{page.title}}</p>
+     </h1>
+      <h2>
+          <span class="entry-date date published">
+          <time datetime="{{page.ano}}-{{page.mes}}-{{page.dia}}">{{page.dia}} {{page.mes}}, {{page.ano}}</time>
+          </span>
+      </h2>
+      <p class="entry-reading-time">
+        <i class="fa fa-clock-o"></i> Tempo de leitura ~{{page.leitura}}
+      </p>
+      <!-- /.entry-reading-time -->
+
+    </div>
+    <!-- /.header-title-wrap -->
+  </header>
+
+</header>
