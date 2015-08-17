@@ -35,10 +35,10 @@
 }
 
 .teaserimage {
-  height: 450px;
+  height: 350px;
   position: relative;
   overflow: hidden;
-  background-color: black;
+      background-color: #019875 !important;
   .teaserimage-image {
     background-size: cover;
     background-position: center;
@@ -158,7 +158,7 @@
     height: 400px;
     overflow: hidden;
         text-align: center;
-    margin: 100px 0 0;
+    margin: 70px 0 0;
     z-index: 98;
     
     .header-title-wrap{
