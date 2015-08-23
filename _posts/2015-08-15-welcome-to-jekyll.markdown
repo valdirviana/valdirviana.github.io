@@ -32,3 +32,6 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+## Dúvida
+
+> Willian tem uma tecnica que vi no seu blog e gostei muito...dai fui procurar como fazer mais não consegui encontrar nada parecido, até consegui mas não era como eu queria.. sou muito perfecionista.. XD. O efeito que me refiro é o que faz com que a div quer vem os titulos dos posts a "header-post" ela ocupa sempre a tela completa do usuario.. sei que é uma duvida bem simples, mas agradeço se puder me dar help. Abraços!
