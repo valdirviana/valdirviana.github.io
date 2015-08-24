@@ -8,6 +8,7 @@ url: "http://valdirviana.github.io" # the base hostname & protocol for your site
 twitter_username: valdir_viana
 github_username:  valdirviana
 permalink: pretty
+apresentacao: Programação com um pouco de nerdices em geral
 
 # Build settings
 markdown: kramdown

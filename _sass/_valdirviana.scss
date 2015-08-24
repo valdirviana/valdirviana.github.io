@@ -86,6 +86,13 @@
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    
+     @include media-query($on-palm) {
+        width: $rs * 5;
+        height: $rs * 5;
+         top: -$rs * 2;
+         margin-right: -$rs * 2.5;
+    }
   }
   .blog-title {
     margin: 0;
