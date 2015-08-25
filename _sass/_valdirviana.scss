@@ -179,18 +179,28 @@
     font-size: 60px;
     font-weight: 500;
         text-shadow: 1px 1px 4px rgba(34,34,34,0.6);
+        
+             @include media-query($on-palm) {
+                   font-size: 36px;
+              }
       }
       
       .entry-date{
             color: white!important;
     text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
     font-size: 32px;
+    
+    @include media-query($on-palm) {
+                   font-size: 28px;
+              }
       }
       
       .entry-reading-time{
             color: white!important;
     text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
     font-weight: 200;
+    
+    
       }
     }
 }
