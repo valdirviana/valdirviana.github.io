@@ -14,6 +14,7 @@ leitura: 7 minutos
 tags:
 - jekyll
 - windows
+lang: pt_BR
 ---
 
 ![Jekyll]({{ site.url }}/assets/images/posts/jekyll-logo-light-solid.png)
