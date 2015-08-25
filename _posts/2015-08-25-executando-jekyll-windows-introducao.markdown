@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Executando Jekyll no Windows - Introdução"
-date:   2015-08-23 20:55:06
+date:   2015-08-25 11:23:06
 categories: post 
 dia: 25
 mes: Agosto
