@@ -23,7 +23,32 @@
   <meta http-equiv="content-language" content="pt-br" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   
-  <meta property="og:image" content={{page.image}}/>
+  <!-- OG Tags-->
+  <meta property="og:site_name" content="Valdir Viana" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:description" content="{{page.description | truncatewords: 25}}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{{page.image}}"/>
+  <meta property="og:locale" content="pt_BR">
+  <meta property="article:published_time" content="{{page.date}}">
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{tag}}" />
+  {% endfor %}
+  
+  
+  <!-- Twitter Tags-->
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:creator" content="@valdir_viana">
+    <meta name="twitter:title" content="{{page.title}}" />
+    <meta name="twitter:description" content="{{page.description | truncatewords: 25}}" />
+    <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  
+  
+      <!-- Social: Google+ / Schema.org  -->
+    <meta itemprop="name" content="{{page.title}}"/>
+    <meta itemprop="description" content="{{page.description | truncatewords: 25}}">
+    <meta itemprop="image" content="{{page.image}}"/>
   
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Executando Jekyll no Windows - Introdução"
+description: "Jekyll é um simples porém muito útil gerador de conteúdo estático para sites e até blogs, em ambientes Mac OS X e Linux a configuração é uma tarefa trivial,
+porém no Windows nen tanto. Este pequeno tutorial dívido em 4 partes irá te auxiliar a montar um ambiente de desenvolvimento em sua máquina Windows."
 date:   2015-08-25 11:23:06
 categories: post 
 dia: 25
@@ -9,6 +11,9 @@ ano: 2015
 permalink: /executando-jekyll-windows-introducao
 image: "/assets/images/posts/jekyll-logo-light-solid.png"
 leitura: 7 minutos
+tags:
+- jekyll
+- windows
 ---
 
 ![Jekyll]({{ site.url }}/assets/images/posts/jekyll-logo-light-solid.png)
