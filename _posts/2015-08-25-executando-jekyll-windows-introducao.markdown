@@ -11,7 +11,7 @@ image: "/assets/images/posts/post2.png"
 leitura: 7 minutos
 ---
 
-![Jekyll]({{ site.url }}/assets/posts/jekyll-logo-light-solid.png)
+![Jekyll]({{ site.url }}/assets/images/posts/jekyll-logo-light-solid.png)
 
 ##Introdução
 
