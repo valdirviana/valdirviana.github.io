@@ -237,6 +237,10 @@
           -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    
+    @include media-query($on-palm) {
+                   width: 90%;
+              }
     }
     
     
@@ -250,6 +254,10 @@
           -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    
+      @include media-query($on-palm) {
+                   width: 90%;
+              }
     }
    }
 }
