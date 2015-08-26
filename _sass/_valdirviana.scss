@@ -168,8 +168,8 @@
 }
 
 .wrapper-post {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2) - (60px));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2) - (60px));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -320,6 +320,8 @@
 }
 
 .post-content{
+  
+  padding: 40px;
   
   .thumbnaill-post-70{
     text-align: center;
