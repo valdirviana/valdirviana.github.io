@@ -9,7 +9,7 @@ dia: 25
 mes: Agosto
 ano: 2015
 permalink: /executando-jekyll-windows-introducao
-image: "/assets/images/posts/jekyll-logo-light-solid.png"
+image: "/assets/images/posts/jekyll-logo-light-solid-trianglify.png"
 leitura: 7 minutos
 tags:
 - jekyll

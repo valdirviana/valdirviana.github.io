@@ -3,10 +3,17 @@ layout: default
 ---
 
 <main class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
- 
+ <style>
+
+   
+   </style>
   
     {% for post in site.posts %}
-
+      <div>
+        <div class="img-header" style="background-image: url({{post.image}})">
+        <header class="post-header">
+         </header>
+        </div>
          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
@@ -25,6 +32,7 @@ layout: default
             </div>
           </div>
         </article>
+        </div>
     {% endfor %}
  
 

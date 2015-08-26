@@ -4,6 +4,7 @@
 //	src: local('SEGOEUIL'), url('/assets/fonts/SEGOEUIL.woff') format('woff'), url('/assets/fonts/SEGOEUIL.ttf') format('truetype');
 //}
 
+
 .logo-readium {
   position: fixed;
   left: 10px;
@@ -135,6 +136,29 @@
   }
 }
 
+   .img-header{
+         background-size: cover;
+    background-position: center;
+    border-radius: 3px 3px 0 0;
+    width: 100%;
+    overflow: hidden;
+   
+    top: 0;
+    left: 0;
+    height: 224px;
+    z-index: 10;
+     margin-top: 40px;
+   }
+   
+   .gradient-overlay {
+    background: url(/assets/images/article-header-overlay.png) no-repeat;
+    height: 224px;
+    width: 100%;
+    z-index: 25;
+    position: absolute;
+    opacity: .9;
+}
+
 .section-post{
   
    
@@ -177,20 +201,20 @@
 .post{
     font-weight: 300;
     font-style: normal;
-        margin-top: 20px;
+      
         line-height: 2;
 
 
     .article-item{
      
      
-      border-bottom: 10px solid #019875;
+     
       background-color: white;
-      padding: 20px;
+          padding: 40px 10%;
       -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
       -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
       box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
-      border-radius: 2px;
+          border-radius: 0px 0px 2px 2px;
 
       .post-header{
         
@@ -202,7 +226,7 @@
           
           a{
             color: $text-title-color;
-            font-weight: 500!important;
+            
             &:hover{text-decoration: none;}
           }     
       }
