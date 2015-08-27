@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Executando Jekyll no Windows - Parte 2"
-description: ""
+description: "Assim como abordamos nos posts anteriores, Jekyll é fornecido através de uma Gem do Ruby, o que o torna muito fácil de se instalar. Para instalar Jekyll e todas as suas dependências padrão, utilize o prompt de comando e digite o comando a seguir."
 date:   2015-08-27 10:23:06
 categories: post 
 dia: 27
