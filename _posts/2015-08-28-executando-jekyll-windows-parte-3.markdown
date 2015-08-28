@@ -7,7 +7,7 @@ categories: post
 dia: 28
 mes: Agosto
 ano: 2015
-permalink: /executando-jekyll-windows-parte-2
+permalink: /executando-jekyll-windows-parte-3
 image: "/assets/images/posts/jekyll-logo-light-solid.png"
 leitura: 15-20 minutos
 tags:
