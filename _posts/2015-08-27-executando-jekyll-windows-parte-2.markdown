@@ -22,6 +22,7 @@ lang: pt_BR
 	
 ####Veja os anteriores:
 [Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)
+<br/>
 [Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/)
 
 ##Instalação

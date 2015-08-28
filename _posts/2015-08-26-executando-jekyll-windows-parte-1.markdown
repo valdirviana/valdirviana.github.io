@@ -32,13 +32,13 @@ devemos instalar o Ruby e o DevKit correspondente necessário para construir alg
 ##Instalando Ruby
 Primeiramenta clique [aqui](http://rubyinstaller.org/downloads/) e faça o download da versão do Ruby de acordo com a arquitetura de seu sistema.
 
-<p class="thumbnaill-post-50">
+<p class="thumbnaill-post-70">
 	<img src="{{ site.url }}/assets/images/posts/ruby-download-1.PNG"/>
 </p> 
 
 Execute a instalação. Quando o instalador chega a esta parte, como abaixo, certifique-se de marcar "Add Ruby executables to your PATH".
 	
-<p class="thumbnaill-post-50">
+<p class="thumbnaill-post-70">
 	<img src="{{ site.url }}/assets/images/posts/ruby-download-2.PNG"/>
 </p> 
 
@@ -51,7 +51,7 @@ você provavelmente vai precisar instalar o DevKit em seu ambiente de desenvolvi
 Clique [aqui](http://rubyinstaller.org/downloads/) e faça o download do DevKit de acordo com a versão que você escolheu no passo anterior
 e de acordo com a arquitetura escolhida também x86 ou x64.
 
-<p class="thumbnaill-post-50">
+<p class="thumbnaill-post-70">
 	<img src="{{ site.url }}/assets/images/posts/ruby-download-3.PNG"/>
 </p> 
 

@@ -3,18 +3,12 @@ layout: default
 ---
 
 <main class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
- <style>
-
-   
-   </style>
   
     {% for post in site.posts %}
-      <div>
+      <section itemscope itemtype="http://schema.org/Blog">
         <div class="img-header" style="background-image: url({{post.image}})">
-        <header class="post-header">
-         </header>
         </div>
-         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+         <article class="post" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
               <h2 class="post-title" itemprop="name">
@@ -24,15 +18,14 @@ layout: default
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.content | strip_html | truncatewords: 45 }}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="link">Leia mais sobre {{post.title}}</a>
-              </p>
-              
+              </p>           
             </section>
             <div class="post-meta">
-              <time>{{post.dia}} {{ post.mes }} {{post.ano}}</time>
+              <time itemprop="datePublished" content="{{post.date}}">{{post.dia}} {{ post.mes }} {{post.ano}}</time>
             </div>
           </div>
         </article>
-        </div>
+       </section>
     {% endfor %}
  
 
