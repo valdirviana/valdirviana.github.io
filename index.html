@@ -17,7 +17,7 @@ layout: default
                 </h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 45 }}
+              <p>{{ post.description | strip_html | truncatewords: 45 }}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="link">Leia mais sobre {{post.title}}</a>
               </p>           
             </section>
