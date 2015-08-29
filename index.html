@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-  
+
     {% for post in site.posts %}
       <section itemscope itemtype="http://schema.org/Blog">
         <div class="img-header" style="background-image: url({{post.image}})">
@@ -23,12 +23,21 @@ layout: default
             <div class="post-meta">
               <time itemprop="datePublished" content="{{post.date}}">{{post.dia}} {{ post.mes }} {{post.ano}}</time>
             </div>
-          </div>
+            <!-- Your share button code -->
+            <br/>
+            <p>Ta curtindo? Compartilha com sua galera.</p>
+            <div class="fb-share-button" data-href="{{ post.url | prepend: site.url }}" data-layout="box_count"></div>
+            <div class="fb-like" data-href="{{ post.url | prepend: site.url }}" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ post.url | prepend: site.url }}" 
+              data-via="Valdir_Viana" data-size="default" data-count="vertical" >Tweet</a>
+            <div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-height="60" data-href="{{ post.url | prepend: site.url }}" ></div>
+            <div class="g-plusone" data-size="tall" data-href="{{ post.url | prepend: site.url }}" ></div>
+          
+            </div>
         </article>
        </section>
     {% endfor %}
  
-
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
+<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 
 </main>

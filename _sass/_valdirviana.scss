@@ -319,6 +319,40 @@
   }
 }
 
+.social-links{
+      max-width: 345px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    
+    img{
+      margin-bottom: 6px;
+        -webkit-filter: grayscale(80%);
+        -moz-filter: grayscale(80%);
+        -ms-filter: grayscale(80%);
+        -o-filter: grayscale(80%);
+        filter: grayscale(80%);
+        filter: url(grayscale.svg); /* Firefox 4+ */
+        filter: gray; /* IE 6-9 */
+
+         
+         
+        &:hover{
+         -webkit-filter: grayscale(0%);
+        -moz-filter: grayscale(0%);
+        -ms-filter: grayscale(0%);
+        -o-filter: grayscale(0%);
+        filter: grayscale(0%);
+
+        }
+    }
+    
+    
+}
+
+.fb_iframe_widget span{
+  margin-bottom: 12px;
+}
+
 .post-content{
   
   padding: 40px;
@@ -358,4 +392,8 @@
               }
     }
    }
+}
+
+.trans-lin-0-1{
+  transition: all 0.1s linear;
 }
