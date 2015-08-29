@@ -17,11 +17,6 @@ tags:
 lang: pt_BR
 ---
 
-<p class="thumbnaill-post-70">
-	<img src="{{ site.url }}/assets/images/posts/jekyll-logo-light-solid.png"/>
-</p> 
-	
-	
 
 ##Introdução
 

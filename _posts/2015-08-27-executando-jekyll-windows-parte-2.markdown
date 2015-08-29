@@ -16,9 +16,6 @@ tags:
 lang: pt_BR
 ---
 
-<p class="thumbnaill-post-70">
-	<img src="{{ site.url }}/assets/images/posts/jekyll-logo-light-solid.png"/>
-</p> 
 	
 ####Veja os anteriores:
 [Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)

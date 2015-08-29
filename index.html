@@ -6,8 +6,9 @@ layout: default
 
     {% for post in site.posts %}
       <section itemscope itemtype="http://schema.org/Blog">
-        <div class="img-header" style="background-image: url({{post.image}})">
-        </div>
+      
+        <img class="img-header" src="{{ site.url }}/{{post.image}}"/>
+        
          <article class="post" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">

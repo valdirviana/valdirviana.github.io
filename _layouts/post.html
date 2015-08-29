@@ -5,8 +5,12 @@
 <body>
   {% include header-post.html %}
 
+
+
   <section class="section-post" itemscope itemtype="http://schema.org/BlogPosting">
+
     <div class="wrapper-post">
+        <img class="img-thumb-post" src="{{ site.url }}/{{page.image}}"/>
       <div class="post">
         <article role="article" id="scroll" class="post-content" itemprop="articleBody">
           {{ content }}
