@@ -21,7 +21,7 @@ lang: pt_BR
 ##Introdução
 
 [Jekyll](http://jekyllrb.com/) é um simples porém muito útil gerador de conteúdo estático para sites e até blogs, em ambientes Mac OS X e Linux a configuração é uma tarefa trivial,
-porém no Windows nen tanto. Este pequeno tutorial dívido em 4 partes irá te auxiliar a montar um ambiente de desenvolvimento em sua máquina Windows.
+porém no Windows nen tanto. Este pequeno tutorial dívido em 5 partes irá te auxiliar a montar um ambiente de desenvolvimento em sua máquina Windows.
 
 Jekkyl é uma gem portando executa em cima da plataforma do [Ruby](https://www.ruby-lang.org/pt/).
 
