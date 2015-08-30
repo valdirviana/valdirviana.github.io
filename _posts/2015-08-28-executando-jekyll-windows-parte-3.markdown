@@ -89,6 +89,17 @@ Em seguida, execute o seguinte comando para fazer o download e instalar automagi
 python get-pip.py
 {% endhighlight %}
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- valdirviana.github.io - Intro post (so texto) -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7851524114238986"
+     data-ad-slot="3633647753"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ##Instalando a base do Python para Pygments
 A partir do prompt de comando, execute o seguinte comando para instalar a base de Python pygments.
 {% highlight console %}

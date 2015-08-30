@@ -33,6 +33,17 @@ não oficial.
 objetivo fornecer alguns conhecimentos que foram desenterrados por usuário Windows.
 [Documentação do Jekyll para Windows](http://jekyllrb.com/docs/windows/){:target="_blank"}
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- valdirviana.github.io - Intro post (so texto) -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7851524114238986"
+     data-ad-slot="3633647753"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ##Versões
 Ao termino desse tutorial você irá ter as seguintes versões de softwares. Estes foram testados de forma funcional para trabalhar com Jekyll no Windows.
 
