@@ -9,7 +9,7 @@ mes: Agosto
 ano: 2015
 permalink: /dimitri-deleta-o-projeto-por-acidente
 image: "/assets/images/posts/dimitri.png"
-leitura: 10 minutos
+leitura: 2 minuto
 tags:
 - dimitri
 lang: pt_BR
