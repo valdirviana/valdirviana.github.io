@@ -2,9 +2,9 @@
 layout: post
 title:  "Extension Methods em C#"
 description: "Boas galera, hoje vamos aprender a criar extensions methods para auxiliar no desenvolvimento com C#. Extensions Methods são muito úteis quando você precisa de uma rotina que vá ser chamada constantemente em seu código, extension methods permite que você adicione métodos a tipos primitivos e existentes, sem a necessidade de criar um novo tipo derivado. Alguns extensions méthods já estão implementados no frameworks veja alguns para string."
-date: 2015-08-31 10:39:06
+date: 2015-08-31 20:39:06
 categories: post 
-dia: 31
+dia: 30
 mes: Agosto
 ano: 2015
 permalink: /extension-methods-em-csharp
