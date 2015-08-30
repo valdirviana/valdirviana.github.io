@@ -38,14 +38,15 @@ Veja abaixo uma prévia do game play do jogo e algumas imagens.
 <br/>
 
 <p class="thumbnaill-post-100">
-		<img src="{{ site.url }}/assets/images/posts/myght9-2.jpg"/>
-</p> 
+	<img src="{{ site.url }}/assets/images/posts/myght9-2.jpg"/>
+</p>
+
 
 <br/>
 
 <p class="thumbnaill-post-100">
 	<img src="{{ site.url }}/assets/images/posts/myght9-3.jpg"/>
-</p> 
+</p>
 
 <br/>
 
