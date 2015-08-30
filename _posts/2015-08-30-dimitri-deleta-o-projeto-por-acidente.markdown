@@ -7,7 +7,7 @@ categories: post
 dia: 30
 mes: Agosto
 ano: 2015
-permalink: /myght-no-9-vai-ganhar-demo
+permalink: /dimitri-deleta-o-projeto-por-acidente
 image: "/assets/images/posts/dimitri.png"
 leitura: 10 minutos
 tags:
