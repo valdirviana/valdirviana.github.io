@@ -14,16 +14,17 @@ tags:
 - jekyll
 - windows
 lang: pt_BR
+offtopic: false
 ---
 	
 ####Ta chegando agora? Veja os anteriores:
-[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)
+[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/)
+[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 2]({{site.url}}/executando-jekyll-windows-parte-2/)
+[Executando Jekyll no Windows - Parte 2]({{site.url}}/executando-jekyll-windows-parte-2/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 3]({{site.url}}/executando-jekyll-windows-parte-3/)
+[Executando Jekyll no Windows - Parte 3]({{site.url}}/executando-jekyll-windows-parte-3/){:target="_blank"}
 
 
 ##Usando Jekyll --watch
@@ -55,15 +56,15 @@ gem install wdm
 Você aprendeu nessa pequena série como preparar o ambiente para desenvolver Jekyll em um ambiente Windows.
 Abaixo deixo alguns links úteis para te auxiliar no desenvolvimento de páginas com Jekyll:
 
-[Jekyll on Windows](http://jekyll-windows.juthilo.com/) -> Série base para meus posts
+[Jekyll on Windows](http://jekyll-windows.juthilo.com/){:target="_blank"} -> Série base para meus posts
 <br/>
-[Jekyll](http://jekyllrb.com/) -> Site do Jekyll
+[Jekyll](http://jekyllrb.com/){:target="_blank"} -> Site do Jekyll
 <br/>
-[Markdown-Guide](http://markdown-guide.readthedocs.org/en/latest/basics.html) -> Um guia para utilizar markdown na escrita de sua páginas/posts
+[Markdown-Guide](http://markdown-guide.readthedocs.org/en/latest/basics.html){:target="_blank"} -> Um guia para utilizar markdown na escrita de sua páginas/posts
 <br/>
-[Pygment Highlighter](http://pygments.org/languages/) -> Linguagem que você pode escrever com Pygments
+[Pygment Highlighter](http://pygments.org/languages/){:target="_blank"} -> Linguagem que você pode escrever com Pygments
 <br/>
-[Html5 Up](http://html5up.net/) -> Alguns temas gratuitos constrstuídos em Html5 para você usar.
+[Html5 Up](http://html5up.net/){:target="_blank"} -> Alguns temas gratuitos constrstuídos em Html5 para você usar.
 
 E ai pessoal, curtiram essa primeira série? Espero que sim, se puder deixar sua breve opinião nos comentários abaixo ou até mesmo compartilhar em suas redes sociais.
 

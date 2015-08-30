@@ -15,18 +15,19 @@ tags:
 - windows
 - python
 lang: pt_BR
+offtopic: false
 ---
 	
 ####Ta chegando agora? Veja os anteriores:
-[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)
+[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/)
+[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 2]({{site.url}}/executando-jekyll-windows-parte-2/)
+[Executando Jekyll no Windows - Parte 2]({{site.url}}/executando-jekyll-windows-parte-2/){:target="_blank"}
 
 
 ##Visão Geral
-Se você estiver usando [Markdown](http://daringfireball.net/projects/markdown/) ou HTM, Jekyll torna mais fácil
+Se você estiver usando [Markdown](http://daringfireball.net/projects/markdown/){:target="_blank"} ou HTM, Jekyll torna mais fácil
 para você inserir belos blocos de código em suas páginas.
 
 Por padrão, Jekyll vem com o 'highlights' pygments.rb, que é um marcador de sintaxe baseado em Python. Para usá-lo no Windows, 
@@ -36,7 +37,7 @@ Uma boa alternativa é o Rouge baseado em Ruby, que é mais rápido e mais fáci
 mas não suporta as mesmas línguas que pygments.
 
 Abaixo, você encontrará instruções para ambos os marcadores de sintaxe. Escolha o que melhor se adapta às suas necessidades. 
-Mais informações podem ser encontradas no [site oficial Jekyll](http://jekyllrb.com/docs/templates/#code-snippet-highlighting).
+Mais informações podem ser encontradas no [site oficial Jekyll](http://jekyllrb.com/docs/templates/#code-snippet-highlighting){:target="_blank"}.
 
 ##Instalando Rougue
 Rápido e simples: Abra o prompt de comando e digite o seguinte comando.
@@ -60,7 +61,7 @@ Estes não devem causar nenhum problema real embora, assim você pode ignorá-lo
 
 ##Instalando Python
 A última versão do Python no momento é v2.7.10. Python 3 não vai funcionar.
-Clique no [aqui](https://www.python.org/downloads/) para baixar o instalador **v2.7** que de acordo com arquitetura de seu sistema (x86 / x64).
+Clique no [aqui](https://www.python.org/downloads/){:target="_blank"} para baixar o instalador **v2.7** que de acordo com arquitetura de seu sistema (x86 / x64).
 
 Execute o arquivo baixado e siga os passos da instalação.
 
@@ -74,7 +75,7 @@ Quando você chegar à tela abaixo, certifique-se de clicar na caixa ao lado de 
 Pip é uma ferramenta para instalação e gerenciamento de pacotes Python , semelhante ao Ruby Gems. Você vai precisar dele para instalar pygments, 
 o pacote Python que pygments.rb usa para realçar seu código.
 
-Primeiro, clique [aqui](https://pip.pypa.io/en/latest/installing.html) e baixe get-pip.py através do link no site.
+Primeiro, clique [aqui](https://pip.pypa.io/en/latest/installing.html){:target="_blank"} e baixe get-pip.py através do link no site.
 
 **Nota:** O arquivo get-pip.py é um arquivo de texto comun com extensão do python, portando salve este arquivo em `c:/pip`
 

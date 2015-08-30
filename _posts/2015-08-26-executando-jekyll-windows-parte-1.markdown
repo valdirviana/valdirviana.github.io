@@ -15,11 +15,12 @@ tags:
 - windows
 - ruby
 lang: pt_BR
+offtopic: false
 ---
 
 	
 ####Veja os anteriores:
-[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)
+[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/){:target="_blank"}
 
 ##Instalando Ruby e Ruby DevKit
 
@@ -27,7 +28,7 @@ Como falado anteriormente na introdução desta série, Jekyll foi desenvolvido 
 devemos instalar o Ruby e o DevKit correspondente necessário para construir algumas dependências de Jekyll e algumas extensões nativas.
 
 ##Instalando Ruby
-Primeiramenta clique [aqui](http://rubyinstaller.org/downloads/) e faça o download da versão do Ruby de acordo com a arquitetura de seu sistema.
+Primeiramenta clique [aqui](http://rubyinstaller.org/downloads/){:target="_blank"} e faça o download da versão do Ruby de acordo com a arquitetura de seu sistema.
 
 <p class="thumbnaill-post-70">
 	<img src="{{ site.url }}/assets/images/posts/ruby-download-1.PNG"/>
@@ -45,7 +46,7 @@ Finalize a instalação.
 Jekyll possuí algumas dependências, então precisamos instalar o DevKit para que toda execução ocorra como esperado.Para torná-los em executáveis ​​completamente funcionais, 
 você provavelmente vai precisar instalar o DevKit em seu ambiente de desenvolvimento.
 
-Clique [aqui](http://rubyinstaller.org/downloads/) e faça o download do DevKit de acordo com a versão que você escolheu no passo anterior
+Clique [aqui](http://rubyinstaller.org/downloads/){:target="_blank"} e faça o download do DevKit de acordo com a versão que você escolheu no passo anterior
 e de acordo com a arquitetura escolhida também x86 ou x64.
 
 <p class="thumbnaill-post-70">

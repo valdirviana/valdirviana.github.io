@@ -9,6 +9,7 @@ ano: 2015
 permalink: /por-que-escrever
 image: "/assets/images/posts/post2.png"
 leitura: 10 minutos
+offtopic: false
 ---
 ##Introdução
 Por que escrever? Você já respondeu a si mesmo esta pergunta, hoje em um mundo de memes e vlogs é cada vez 

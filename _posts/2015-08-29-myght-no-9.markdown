@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "[Nerd Topic] - Myght No .9 vai ganhar versão demo"
+description: "A Comcept, empresa que esta desenvolvendo o game, divulgou que será lançada uma versão demo do game para os apoiadores do projeto no Kickstart ainda em setembro. Para quem não se lembra, o idealizador do game é Naoya Tomita, ele foi um dos criadores do Megaman na década de 90, em agosto de 2013 foi lançada uma campanha de crowndfound, para arrecadar a princípio 900 mil dólares para a criação do novo game inspirado em seu precursor Megaman"
+date: 2015-08-29 20:39:06
+categories: post 
+dia: 29
+mes: Agosto
+ano: 2015
+permalink: /myght-no-9-vai-ganhar-demo
+image: "/assets/images/posts/myght9.jpg"
+leitura: 10 minutos
+tags:
+- game
+- windows
+lang: pt_BR
+offtopic: true
+---
+
+##Demo do game vai chegar para PC em setembro
+
+A [Comcept](http://comcept.co.jp/en/){:target="_blank"}, empresa que esta desenvolvendo o game, divulgou que será lançada uma versão demo do game para
+os apoiadores do projeto no [Kickstarter](https://www.kickstarter.com){:target="_blank"} ainda em setembro. Para quem não se lembra, o idealizador do game é
+Naoya Tomita, ele foi um dos criadores do Megaman na década de 90, em agosto de 2013 foi lançada uma campanha de crowndfound, para 
+arrecadar a princípio 900 mil dólares para a criação do novo game inspirado em seu precursor Megaman, ao final do período da 
+[campanha](https://www.kickstarter.com/projects/mightyno9/mighty-no-9/description){:target="_blank"} foram arrecadados incríveis $3.845.170 dólares no site
+do kickstarter e mais $186.380 através de doações por Paypal.
+
+O **lançamento** do game estava previsto para abril de 2015, porém ocorreram atrasos e a nova data de lançamento será no primeiro
+semestre de 2016.
+
+Veja abaixo uma prévia do game play do jogo e algumas imagens.
+
+<p class="thumbnaill-post-100">
+	<img src="{{ site.url }}/assets/images/posts/myght9-1.jpg"/>
+</p> 
+<br/>
+<p class="thumbnaill-post-100">
+		<img src="{{ site.url }}/assets/images/posts/myght9-2.jpg"/>
+</p> 
+<br/>
+<p class="thumbnaill-post-100">
+	<img src="{{ site.url }}/assets/images/posts/myght9-3.jpg"/>
+</p> 
+
+<br/>
+
+<div class='embed-container-youtube'>
+<iframe src="https://www.youtube.com/embed/aw6dWGEqt54" frameborder="0" allowfullscreen></iframe>
+</div>

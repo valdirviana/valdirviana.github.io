@@ -14,13 +14,14 @@ tags:
 - jekyll
 - windows
 lang: pt_BR
+offtopic: false
 ---
 
 	
 ####Veja os anteriores:
-[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/)
+[Executando Jekyll no Windows - Introdução]({{site.url}}/executando-jekyll-windows-introducao/){:target="_blank"}
 <br/>
-[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/)
+[Executando Jekyll no Windows - Parte 1]({{site.url}}/executando-jekyll-windows-parte-1/){:target="_blank"}
 
 ##Instalação
 Assim como abordamos nos posts anteriores, Jekyll é fornecido através de uma Gem do Ruby, o que o torna muito fácil de se instalar.

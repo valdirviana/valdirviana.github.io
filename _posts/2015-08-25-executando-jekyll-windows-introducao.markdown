@@ -15,22 +15,23 @@ tags:
 - jekyll
 - windows
 lang: pt_BR
+offtopic: false
 ---
 
 
 ##Introdução
 
-[Jekyll](http://jekyllrb.com/) é um simples porém muito útil gerador de conteúdo estático para sites e até blogs, em ambientes Mac OS X e Linux a configuração é uma tarefa trivial,
+[Jekyll](http://jekyllrb.com/){:target="_blank"} é um simples porém muito útil gerador de conteúdo estático para sites e até blogs, em ambientes Mac OS X e Linux a configuração é uma tarefa trivial,
 porém no Windows nen tanto. Este pequeno tutorial dívido em 5 partes irá te auxiliar a montar um ambiente de desenvolvimento em sua máquina Windows.
 
-Jekkyl é uma gem portando executa em cima da plataforma do [Ruby](https://www.ruby-lang.org/pt/).
+Jekkyl é uma gem portando executa em cima da plataforma do [Ruby](https://www.ruby-lang.org/pt/){:target="_blank"}.
 
 Atenção: Note que o uso de Jekyll no Windows não é oficialmente suportado pela equipe do Jekyll. Enquanto esta guia existir, o Jekyll para Windows permanece 
 não oficial.
 
 > Enquanto o Windows não é uma plataforma oficialmente suportada, ele pode ser usado para realizar alguns ajustes adequados com Jekyll. Esta página tem como
 objetivo fornecer alguns conhecimentos que foram desenterrados por usuário Windows.
-[Documentação do Jekyll para Windows](http://jekyllrb.com/docs/windows/)
+[Documentação do Jekyll para Windows](http://jekyllrb.com/docs/windows/){:target="_blank"}
 
 ##Versões
 Ao termino desse tutorial você irá ter as seguintes versões de softwares. Estes foram testados de forma funcional para trabalhar com Jekyll no Windows.
@@ -64,5 +65,5 @@ As versões que tem sido testadas com sucesso estão listadas abaixo. É recomen
 <br/>
 
 ##Jekkyl Portable
-Existe uma versão portátil do Jekkyl criado por [@madhur](https://github.com/madhur), porém não iremos abordar nesse tutorial esta ferramenta. Caso queira ver clique [aqui](https://github.com/madhur/PortableJekyll).
+Existe uma versão portátil do Jekkyl criado por [@madhur](https://github.com/madhur){:target="_blank"}, porém não iremos abordar nesse tutorial esta ferramenta. Caso queira ver clique [aqui](https://github.com/madhur/PortableJekyll).
 
