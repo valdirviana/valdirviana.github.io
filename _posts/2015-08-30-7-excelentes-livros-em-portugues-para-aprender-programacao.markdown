@@ -14,10 +14,15 @@ mes: Agosto
 ano: 2015
 permalink: /7-excelentes-livros-em-portugues-para-aprender-programacao
 image: "/assets/images/posts/dog-reading.jpg"
-leitura: 10 minutos
+leitura: 20 minutos
 tags:
-- game
-- windows
+- php
+- c#
+- python
+- livros
+- html5
+- css
+- front end
 lang: pt_BR
 offtopic: false
 ---
