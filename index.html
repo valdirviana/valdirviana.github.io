@@ -16,16 +16,16 @@ layout: default
                 <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
                 </h2>
             </header>
+            <div class="post-meta">
+              por: Valdir Viana | <time itemprop="datePublished" content="{{post.date}}">{{post.dia}} {{ post.mes }} {{post.ano}}</time>
+            </div>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.description | strip_html | truncatewords: 45 }}
+              <p>{{ post.description | strip_html | truncatewords: 50 }}
                 <a href="{{ post.url | prepend: site.baseurl }}" class="link">Leia mais sobre {{post.title}}</a>
               </p>           
             </section>
-            <div class="post-meta">
-              <time itemprop="datePublished" content="{{post.date}}">{{post.dia}} {{ post.mes }} {{post.ano}}</time>
-            </div>
+            <hr class="hr"/>
             <!-- Your share button code -->
-            <br/>
             <p>Ta curtindo? Compartilha com sua galera.</p>
             <div class="fb-share-button" data-href="{{ post.url | prepend: site.url }}" data-layout="box_count"></div>
             <div class="fb-like" data-href="{{ post.url | prepend: site.url }}" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
