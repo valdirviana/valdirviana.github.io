@@ -25,6 +25,7 @@ tags:
 - front end
 lang: pt_BR
 offtopic: false
+ads: true
 ---
 
 ##Fica dica ai
