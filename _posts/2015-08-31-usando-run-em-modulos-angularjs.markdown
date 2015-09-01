@@ -17,6 +17,7 @@ tags:
 - angularjs
 lang: pt_BR
 offtopic: false
+ads: true
 ---
 
 

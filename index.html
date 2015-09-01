@@ -41,6 +41,18 @@ layout: default
             </div>
         </article>
        </section>
+       {% if post.ads == true %}
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- valdirviana.github.io - Intro post (so texto) -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-7851524114238986"
+            data-ad-slot="3633647753"
+            data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+       {% endif %}
     {% endfor %}
  
 <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
