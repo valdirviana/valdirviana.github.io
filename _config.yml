@@ -9,6 +9,8 @@ twitter_username: valdir_viana
 github_username:  valdirviana
 permalink: pretty
 apresentacao: Programação com um pouco de nerdices em geral
+paginate: 7
+paginate_path: "/page/:num"
 
 # Build settings
 markdown: kramdown
