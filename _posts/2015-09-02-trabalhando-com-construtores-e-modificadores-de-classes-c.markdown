@@ -2,7 +2,7 @@
 layout: post
 title:  "Trabalhando com construtores e modificadores de classes em c# – Parte 1"
 description: "Hoje irei abordar um assunto muito interessante que muitas vezes passa desapercebido e pode ser dor de cabeça mais dias ou menos dias.
-Hoje irei falar sobre **construtores e modificadores em c#**, mesmo para desenvolvedores mais experientes esse pode ser um assunto ainda confuso quando falamos de assuntos além do comum, static, private, public."
+Hoje irei falar sobre construtores e modificadores em c#, mesmo para desenvolvedores mais experientes esse pode ser um assunto ainda confuso quando falamos de assuntos além do comum, static, private, public."
 date: 2015-09-02 21:39:06
 categories: post 
 dia: 02
