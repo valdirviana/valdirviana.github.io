@@ -196,3 +196,4 @@ Agora você me pergunta, em que isso é **útil**. Em cenários de repositórios
 
 Bom é isso galera, essa é a primeira parte, na segunda parte irei falar sobre, classe static, sealed, protected. Sabe a diferença? Então fica ligado ai.
 Até a próxima.
+
