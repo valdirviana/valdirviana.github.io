@@ -117,6 +117,17 @@ Após uma dessas trilhas você obtem:
 
 Para manter esta certificação deve ser feita re-certificação a cada dois anos.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- valdirviana.github.io - Intro post (so texto) -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7851524114238986"
+     data-ad-slot="3633647753"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ####A próxima trilha é **MCSD: Aplicativos para Web**, veja [aqui](https://www.microsoft.com/learning/pt-br/mcsd-web-apps-certification.aspx){:target="_blank"}.
 
 <p class="p-image">
