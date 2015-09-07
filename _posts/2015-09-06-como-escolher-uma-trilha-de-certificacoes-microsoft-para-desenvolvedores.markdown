@@ -180,6 +180,8 @@ Para manter esta certificação deve ser feita re-certificação a cada dois ano
 
 Vale lembrar novamente que esta trilha que foi mostrada aqui é para uma carreira de desenvolvedor, mas existem outras trilhas para **infraestrutura**, **banco de dados** e até para aplicativos **offfice**.
 
+Quero indicar este site, [CertBest](http://www.certbest.com/){:target="_blank"} que lista uma série de certificações e traz testes para se preparar para os exames.
+
 Espero que tenham gostado, seu **feedback** em algumas das redes sociais é muito imporante.
 
 Um grande abraço e até a próxima
